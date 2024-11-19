@@ -1,7 +1,15 @@
 # CALM-QE
 
-This repository is developed to create "Study Data" for [CALM-QE Project]( https://www.calm-qe.de/).
+#### ⚠️ Archived Repository
 
+This repository is no longer maintained.
+This project will no longer receive updates, bug fixes, or new features. It is provided "as-is" for reference only.
+
+For the latest version and ongoing updates, please visit the new repository at [MII-CALM-QE-repo](https://github.com/medizininformatik-initiative/dup-calm-qe).
+
+--------------
+
+This repository is developed to create "Study Data" for [CALM-QE Project]( https://www.calm-qe.de/).
 
 The purpose of this set of scripts is to determine a cohort dataset specifically for patients whose primary diagnoses are associated with Asthma or Chronic Obstructive Pulmonary Disease (COPD). The scripts identify and extract
 locally relevant patient data from FHIR server resources available.
